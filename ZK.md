@@ -21,6 +21,8 @@
  - NTT and FTT — https://cgyurgyik.github.io/posts/2021/04/brief-introduction-to-ntt/
 
 # Resources
+- Awesome Zero Knowledge (A curated list of awesome ZK resources, libraries, tools and more) - https://github.com/ventali/awesome-zk
+- ZK knowledge base - https://github.com/delendum-xyz/zk-knowledge
  - ZK whiteboard series https://www.youtube.com/playlist?list=PLj80z0cJm8QErn3akRcqvxUsyXWC81OGq
  - Good blog series on SNARK Why and How zk-SNARK Works 2: Proving Knowledge of a Polynomial | by Maksym | Medium
  - Code to polynomials and computation (best explanation) — https://medium.com/@imolfar/why-and-how-zk-snark-works-5-variable-polynomials-3b4e06859e30
